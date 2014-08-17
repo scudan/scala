@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="akka-actor_2.11-2.3.4">
+    <CLASSES>
+      <root url="jar://D:/install/scala/lib/akka-actor_2.11-2.3.4.jar!/" />
+      <root url="jar://D:/install/scala/lib/config-1.2.1.jar!/" />
+      <root url="jar://D:/install/scala/lib/jline-2.12.jar!/" />
+      <root url="jar://D:/install/scala/lib/scala-actors-2.11.0.jar!/" />
+      <root url="jar://D:/install/scala/lib/scala-actors-migration_2.11-1.1.0.jar!/" />
+      <root url="jar://D:/install/scala/lib/scala-compiler.jar!/" />
+      <root url="jar://D:/install/scala/lib/scala-continuations-library_2.11-1.0.2.jar!/" />
+      <root url="jar://D:/install/scala/lib/scala-continuations-plugin_2.11.2-1.0.2.jar!/" />
+      <root url="jar://D:/install/scala/lib/scala-library.jar!/" />
+      <root url="jar://D:/install/scala/lib/scala-parser-combinators_2.11-1.0.2.jar!/" />
+      <root url="jar://D:/install/scala/lib/scala-reflect.jar!/" />
+      <root url="jar://D:/install/scala/lib/scala-swing_2.11-1.0.1.jar!/" />
+      <root url="jar://D:/install/scala/lib/scala-xml_2.11-1.0.2.jar!/" />
+      <root url="jar://D:/install/scala/lib/scalap-2.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
